@@ -1,0 +1,1 @@
+This is the beginning of my official python learning journey. I will be going through all the basics in this directory in each file. I will face challenges but I am ready for the challenges I am to face as the future software engineer that I am.
