@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-for i in range(10):
-    for j in range(i + 1, 10):
-        print("{}{}".format(i, j), end=", " if i < 8 or j < 9 else "\n")
-        
+for numb1 in range(0, 10):
+    for numb2 in range((numb1 + 1), 10):
+        if (numb1 != 8) or (numb2 != 9):
+            print("{}{}, ".format(numb1, numb2), end="")
+        else:
+            print("{}{}".format(numb1, numb2)) 
