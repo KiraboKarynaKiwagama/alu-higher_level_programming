@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 str1 = "Holberton"
 str2 = "School"
-print(str1 is str2)
+print(int(bool(str1 and str2)))
