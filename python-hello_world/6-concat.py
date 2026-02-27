@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 str1 = "Holberton"
 str2 = "School"
-print(f"Welcome to {str1} {str2}!")
+print(1 if str1 and str2 else 0)
